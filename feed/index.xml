@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>cc face painting</title>
+	<title>CC Face Painting</title>
 	<atom:link href="https://ccfacepainting.github.io/ccfacepainting/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ccfacepainting.github.io/ccfacepainting</link>
 	<description>Painted Moments of Joy</description>
-	<lastBuildDate>Mon, 24 Mar 2025 17:50:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Mar 2025 02:47:25 +0000</lastBuildDate>
 	<language>en-CA</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>https://ccfacepainting.github.io/ccfacepainting/wp-content/uploads/2025/03/cropped-logo_icon-32x32.png</url>
+	<title>CC Face Painting</title>
+	<link>https://ccfacepainting.github.io/ccfacepainting</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
